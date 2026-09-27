@@ -6,7 +6,7 @@ FitLog is a modern, dark-themed gym companion web application built with **Next.
 
 ## 🚀 Live Demo & Repository
 
-- **Live Deployment:** [https://ph-assignment-6-fit-log.vercel.app](https://ph-assignment-6-fit-log.vercel.app)
+- **Live Deployment:** [https://ph-assignment-6-fit-log.vercel.app](https://assignment6-chi-ten.vercel.app/)
 - **GitHub Repository:** [https://github.com/metul001/PH_Assignment-6.git](https://github.com/metul001/PH_Assignment-6.git)
 
 ---
